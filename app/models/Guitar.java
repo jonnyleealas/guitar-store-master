@@ -1,6 +1,6 @@
 package models;
 
-public class Book {
+public class Guitar {
     private int id;
     private String title, description;
 
